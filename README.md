@@ -1,6 +1,6 @@
 # security-question
 ## 概要
-bastionにはsearchsploitというエクスプロイトデータベースのコマンドライン検索ツールがインストールされています。このツールを使って、postgresサーバの脆弱性を突いてください。
+bastionにはsearchsploitというエクスプロイトデータベースのコマンドライン検索ツールがインストールされています。このツールを使って、サーバの脆弱性を突いてください。
 
 ## searchsploitの使い方
 ```bash
