@@ -35,14 +35,14 @@ $ ls -al
 $ pyhton3 25499.py // 後はUsageに従って実行するだけです。
  ````
 <details>
-<summary>Hint1: ヒントを見たい方はこちら。このHintを見ないと難しいかもです</summary>
+<summary>Hint1: ヒントを見たい方はこちら。</summary>
 
 - 確かpostgresqlのバージョンは11.7を使用していた気がしますが・・・。  
 - searchsploitで検索すると・・・。
 </details>
 
 <details>
-<summary>Hint2: ヒントを見たい方はこちら。このHintを見ないと難しいかもです</summary>
+<summary>Hint2: ヒントを見たい方はこちら。</summary>
 
 1. sample-apiの中になにかあるかもしれないです。
 </details>
